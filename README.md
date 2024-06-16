@@ -25,7 +25,7 @@ The quiz questions are stored in a list of dictionaries within the code. Each di
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/quiz-app.git
+    git clone https://github.com/zarabeth-yumie/quiz-app
     ```
 2. Navigate to the project directory:
     ```sh
